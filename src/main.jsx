@@ -3,4 +3,3 @@ var ReactDom = require('react-dom');
 var ListManager = require('./components/ListManager.jsx');
 
 ReactDom.render(<ListManager title="Ingredients" />, document.getElementById('ingredients'));
-//test
